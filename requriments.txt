@@ -1,0 +1,7 @@
+python-multipart
+fastapi
+pydantic
+uvicorn
+requests
+python-dotenv
+ctransformers
